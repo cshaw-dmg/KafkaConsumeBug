@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ConsumeMessages": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}

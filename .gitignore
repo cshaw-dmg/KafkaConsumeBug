@@ -1,0 +1,8 @@
+.vs/
+packages/
+bin/
+obj/
+*.user
+*.csproj.user
+TestResults/
+buf.lock

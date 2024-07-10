@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "CreateTopicAndWriteMessages": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
